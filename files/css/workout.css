@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+header{
+    background-color:#64DFDF;
+    width:100%;
+    position:fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    margin-left: 1px;
+}
+.menu a{
+    
+    text-decoration: none;
+    color:black ;
+    width:100%;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 15px;
+    display: inline;
+    margin-top: 10px;
+    margin-right: 300px;
+}
+.menu a:hover{
+    color: #6930C3;
+}
+
+section {
+    padding: 100px 100px;
+    
+}
+.cards{
+    background-color: #6930C3;
+    color:white;
+    width:100%;
+    min-height: 100vh;
+    
+}
+.title{
+    display:flex;
+    justify-content: center;
+    color: white;
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.gif{
+    width:170px;
+    height:170px;
+    margin-left:15px;
+    float: right;
+}
+
+
+.gym{
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+
+
+
+
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}

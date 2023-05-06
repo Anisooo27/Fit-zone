@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="../css/style_signup.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="box">
+      <div class="signup-box">
+        <img src="../images/purpleavatar.png" class="avatar" />
+        <h1>Sign Up</h1>
+
+        <form action="../php/process-signup.php" method="post">
+          <label>First Name</label>
+          <input required type="text" name="first_name" placeholder="Enter First name" />
+
+          <label>Last Name</label>
+          <input required type="text" name="last_name" placeholder="Enter Last name" />
+          
+          <label>Email</label>
+          <input required type="email" name="email" placeholder="Enter email" />
+          <label>Password</label>
+          <input required type="password" name="password" placeholder="Enter password" />
+          <input type="submit" value="sign up" />
+        </form>
+        
+        <p class="send">
+          Already have an account? <a href="index_login.html">Login here</a>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

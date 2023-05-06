@@ -46,3 +46,15 @@
 ![image](https://user-images.githubusercontent.com/132753227/236626477-9f25649e-03b8-406b-95dc-f5a1c59b736a.png)
 ### Login :
 ![image](https://user-images.githubusercontent.com/132753227/236626436-13e684fc-15f3-4d60-970d-ee9a31a0deb3.png)
+
+## IV-Tools :
+
+- **Wampserver:**
+> WampServer refers to a solution stack for the Microsoft Windows operating system, created by Romain Bourdon and consisting of the Apache web server, OpenSSL for SSL support, MySQL database and PHP programming language.
+
+- **BDD:**
+> database name is 'fitzone_bdd' and it have table names user
+
+![image](https://user-images.githubusercontent.com/132753227/236628813-3e8f51f6-bae9-45e3-b6d0-d09563af47d0.png)
+
+

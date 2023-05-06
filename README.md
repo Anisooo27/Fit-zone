@@ -34,3 +34,15 @@
 
 ## III-Pages Prview :
 
+### Home :
+![image](https://user-images.githubusercontent.com/132753227/236626229-a160df54-db6d-453f-9335-4ab5527c822b.png)
+### Contact :
+![image](https://user-images.githubusercontent.com/132753227/236626248-3d810915-d7cf-4add-81da-dc173df69bd1.png)
+### About US :
+![image](https://user-images.githubusercontent.com/132753227/236626300-1fab8e62-3ec0-40ea-9ef4-94b81833c584.png)
+### Workout :
+![image](https://user-images.githubusercontent.com/132753227/236626323-d90d055c-b010-443c-96fb-bae21013bec4.png)
+### Singup :
+![image](https://user-images.githubusercontent.com/132753227/236626477-9f25649e-03b8-406b-95dc-f5a1c59b736a.png)
+### Login :
+![image](https://user-images.githubusercontent.com/132753227/236626436-13e684fc-15f3-4d60-970d-ee9a31a0deb3.png)
